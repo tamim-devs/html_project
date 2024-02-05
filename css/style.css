@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+
+.guess__game {
+  margin-top: 100px;
+  margin-left: 90px;
+  border: 1px solid #000;
+  width: 500px;
+  height: 900px;
+}
+
+.guess__heading {
+  margin-left: 150px;
+}
+
+.guess__img {
+  width: 50px;
+  height: 50px;
+}
+
+img {
+  margin-left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+.gamin__img {
+  margin-top: 150px;
+
+}
+
+.player {
+  text-align: center;
+}
+
+.player__one {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  width: 300px;
+}
+
+.input__bar1 {
+  margin: 10px 0 10px 0;
+}
+
+.input__bar2 input {
+  display: none;
+  margin-left: 100px;
+
+}
+
+.guess__btn {
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+
+.player__two {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.player__two {
+  display: none;
+
+}
+
+.input__bar2 {
+  margin: 10px 0 10px 0;
+}
+
+
+
+button {
+  width: 200px;
+  height: 50px;
+}
+
+.restart {
+  /* display: none; */
+}
